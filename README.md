@@ -1,8 +1,3 @@
-----------------------------------------
->este bot le dejaré de dar Mantenimiento pero 
-hagan click abajo para el nuevo bot que estoy 
-implementando, espero sus apoyó queridos usuario.
-----------------------------------------
 
 <a href="https://github.com/Wilsmac/FantasyBot-MD-v1" target="black"><img src="https://img.shields.io/badge/♥️-click el nuevo repositorio del bot-000000?style=for-the-badge&logo=GitHub&logoColor=black" /></a>
 
@@ -24,7 +19,7 @@ implementando, espero sus apoyó queridos usuario.
 </p>
  
 
-<a href="https://chat.whatsapp.com/EAxOACyzjB6JhkRvQvw4zl" target="blank"><img src="https://img.shields.io/badge/Grupo-OfiCIAL DEL BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://chat.whatsapp.com/Itxoa5a1BKB71dokbte6zB" target="blank"><img src="https://img.shields.io/badge/Grupo-OfiCIAL DEL BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 <a href="https://chat.whatsapp.com/GK9jQ7sY7XRGxhu6UoTOle" target="blank"><img src="https://img.shields.io/badge/grupo de soporté-✨-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
